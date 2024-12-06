@@ -1,0 +1,340 @@
+body{
+    background-color: black;
+}
+p {
+    margin: 0;
+}
+
+
+.b1{
+    border: solid 0px;
+    color: rgb(126, 195, 255);
+    background-color: azure;
+    width: 80%;
+    border-radius: 20px;
+    height: 30px;
+    font-size: 20px;
+}  
+#d1{
+    margin-top: 20px;
+    height: 200px;
+    border-radius: 10px;
+    position: relative;
+    width: 90%;
+    text-align: center;
+    background-color: rgb(126, 195, 255);
+    display: block;
+    margin-left: 5%;
+}
+#t1{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
+#otst1
+{
+    margin-top: 11px
+}
+
+
+.b2{
+    border: solid 0px;
+    color: rgb(126, 195, 255);
+    background-color: azure;
+    width: 80%;
+    border-radius: 20px;
+    height: 30px;
+    font-size: 20px;
+}  
+#d2{
+    margin-top: 20px;
+    height: 200px;
+    border-radius: 10px;
+    position: relative;
+    width: 90%;
+    text-align: center;
+    background-color: rgb(126, 195, 255);
+    display: block;
+    margin-left: 5%;
+}
+#t2{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
+#otst2
+{
+    margin-top: 45px
+}
+
+
+
+.b3{
+    border: solid 0px;
+    color: rgb(126, 195, 255);
+    background-color: azure;
+    width: 80%;
+    border-radius: 20px;
+    height: 30px;
+    font-size: 20px;
+}  
+#d3{
+    margin-top: 20px;
+    height: 200px;
+    border-radius: 10px;
+    position: relative;
+    width: 90%;
+    text-align: center;
+    background-color: rgb(126, 195, 255);
+    display: block;
+    margin-left: 5%;
+}
+#t3{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
+#otst3
+{
+    margin-top: 10px
+}
+
+
+
+
+
+
+.b4{
+    border: solid 0px;
+    color: rgb(126, 195, 255);
+    background-color: azure;
+    width: 80%;
+    border-radius: 20px;
+    height: 30px;
+    font-size: 20px;
+}  
+#d4{
+    margin-top: 20px;
+    height: 200px;
+    border-radius: 10px;
+    position: relative;
+    width: 90%;
+    text-align: center;
+    background-color: rgb(126, 195, 255);
+    display: block;
+    margin-left: 5%;
+}
+#t4{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
+#otst4
+{
+    margin-top: 45px
+}
+
+
+
+
+.b5{
+    border: solid 0px;
+    color: rgb(126, 195, 255);
+    background-color: azure;
+    width: 80%;
+    border-radius: 20px;
+    height: 30px;
+    font-size: 20px;
+}  
+#d5{
+    margin-top: 20px;
+    height: 200px;
+    border-radius: 10px;
+    position: relative;
+    width: 90%;
+    text-align: center;
+    background-color: rgb(126, 195, 255);
+    display: block;
+    margin-left: 5%;
+}
+#t5{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
+#otst5
+{
+    margin-top: 45px
+}
+
+
+
+
+
+.b6{
+    border: solid 0px;
+    color: rgb(126, 195, 255);
+    background-color: azure;
+    width: 80%;
+    border-radius: 20px;
+    height: 30px;
+    font-size: 20px;
+}  
+#d6{
+    margin-top: 20px;
+    height: 200px;
+    border-radius: 10px;
+    position: relative;
+    width: 90%;
+    text-align: center;
+    background-color: rgb(126, 195, 255);
+    display: block;
+    margin-left: 5%;
+}
+#t6{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
+#otst6
+{
+    margin-top: 10px
+}
+
+
+
+
+
+
+
+.b7{
+    border: solid 0px;
+    color: rgb(126, 195, 255);
+    background-color: azure;
+    width: 80%;
+    border-radius: 20px;
+    height: 30px;
+    font-size: 20px;
+}  
+#d7{
+    margin-top: 20px;
+    height: 200px;
+    border-radius: 10px;
+    position: relative;
+    width: 90%;
+    text-align: center;
+    background-color: rgb(126, 195, 255);
+    display: block;
+    margin-left: 5%;
+}
+#t7{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
+#otst7
+{
+    margin-top: 45px
+}
+
+
+
+
+
+
+
+
+.b8{
+    border: solid 0px;
+    color: rgb(126, 195, 255);
+    background-color: azure;
+    width: 80%;
+    border-radius: 20px;
+    height: 30px;
+    font-size: 20px;
+}  
+#d8{
+    margin-top: 20px;
+    height: 200px;
+    border-radius: 10px;
+    position: relative;
+    width: 90%;
+    text-align: center;
+    background-color: rgb(126, 195, 255);
+    display: block;
+    margin-left: 5%;
+}
+#t8{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
+#otst8
+{
+    margin-top: 10px
+}
+
+
+
+
+
+.b9{
+    border: solid 0px;
+    color: rgb(126, 195, 255);
+    background-color: azure;
+    width: 80%;
+    border-radius: 20px;
+    height: 30px;
+    font-size: 20px;
+}  
+#d9{
+    margin-top: 20px;
+    height: 200px;
+    border-radius: 10px;
+    position: relative;
+    width: 90%;
+    text-align: center;
+    background-color: rgb(126, 195, 255);
+    display: block;
+    margin-left: 5%;
+}
+#t9{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
+#otst9
+{
+    margin-top: 10px
+}
+
+
+.b10{
+    border: solid 0px;
+    color: rgb(126, 195, 255);
+    background-color: azure;
+    width: 80%;
+    border-radius: 20px;
+    height: 30px;
+    font-size: 20px;
+}  
+#d10{
+    margin-top: 20px;
+    height: 200px;
+    border-radius: 10px;
+    position: relative;
+    width: 90%;
+    text-align: center;
+    background-color: rgb(126, 195, 255);
+    display: block;
+    margin-left: 5%;
+}
+#t10{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
+#otst1
+{
+    margin-top: 10px
+}
